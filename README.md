@@ -22,3 +22,11 @@ To download everything in a given directory and all of its subdirectories, simpl
     git annex get .
 
 , but please be aware that this can use a *lot* of disk space and cause a lot of traffic.
+
+
+Submitting patches
+=
+
+If you want to contribute, please keep in mind that you will need to submit your changes from both "master" and "git-annex" branches.
+
+Please use a fresh clone of this repository to import new talks; else you will leak information about your history via `git-annex`' location tracking feature.
