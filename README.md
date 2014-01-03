@@ -7,7 +7,7 @@ This is a repository containing links to various conferences and their talk reco
 Using this repository
 =
 
-To use this repository, you will need to install [git-annex](http://git-annex.branchable.com/).
+To use this repository, you will need to install `[git-annex](http://git-annex.branchable.com/)`.
 
 Once you have installed `git-annex`, simply run
 
