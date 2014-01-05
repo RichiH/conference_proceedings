@@ -1,0 +1,10 @@
+31ebf69ec48929d61eac0c244ab403f8  fosdem09_day1_03-openSUSE_community.ogg
+7a3fb2d177d954a824d2b4a5c3d6452e  fosdem09_day1_05-collaboration.ogg
+1ac4a30b1946f7f342727c3e65f8d686  fosdem09_day1_06-cross_build.ogg
+105e6fb5435caeca5bfb2013e24204ad  fosdem09_day1_07-kiwi.ogg
+0d85e02d940f3c6dca5ebdb088370474  fosdem09_day1_08-studio.ogg
+f1b64c5551df9928841383e66e28d664  fosdem09_day1_09-legal.ogg
+d7dd23bdcfc4109454cd09d5a5cd69b4  fosdem09_day1_10-apport.ogg
+409424d6d87b37a8996cc57016c44e14  fosdem09_day2_01-education.ogg
+28a3136fa42187cf090f0fa0f9b62203  fosdem09_day2_03-wine.ogg
+d41d8cd98f00b204e9800998ecf8427e  MD5SUMS
