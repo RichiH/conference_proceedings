@@ -1,1 +1,1 @@
-../../../../../../.git/annex/objects/3p/j6/URL--http&c%%video.fosdem.org%2008%devrooms%debian%ogg_theora%720x576%MD5SUMS.txt/URL--http&c%%video.fosdem.org%2008%devrooms%debian%ogg_theora%720x576%MD5SUMS.txt
+../../../../../../.git/annex/objects/6V/1M/SHA256E-s1255--42db5b6aeb056d8174ae45afdf55442110fc593a53e65f287b31ec464267750c.txt/SHA256E-s1255--42db5b6aeb056d8174ae45afdf55442110fc593a53e65f287b31ec464267750c.txt
