@@ -1,0 +1,23 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE 
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh net-edit isolated
+or other application using the libvirt API.
+-->
+
+<network>
+  <name>isolated</name>
+  <uuid>f0385572-984f-eea2-ed2d-78fcfb056adc</uuid>
+  <bridge name='virbr2' stp='on' delay='0' />
+  <mac address='52:54:00:E1:B9:BD'/>
+  <ip address='192.168.133.1' netmask='255.255.255.0'>
+    <dhcp>
+      <host mac='52:54:00:55:40:aa' name='alice' ip='192.168.133.111' />
+      <host mac='52:54:00:55:56:98' name='bob' ip='192.168.133.112' />
+      <host mac='52:54:00:bf:13:28' name='charlie' ip='192.168.133.113' />
+      <host mac='52:54:00:bc:15:33' name='daisy' ip='192.168.133.114' />
+      <host mac='52:54:00:1a:56:92' name='eric' ip='192.168.133.115' />
+      <host mac='52:54:00:a0:21:74' name='frank' ip='192.168.133.116' />
+    </dhcp>
+  </ip>
+</network>
