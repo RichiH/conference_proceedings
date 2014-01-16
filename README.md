@@ -27,7 +27,7 @@ To download everything in a given directory and all of its subdirectories, simpl
 Submitting patches
 =
 
-Contrary to my early workflow, I don't need pull requests/patch sets for the "git-annex" branch any more _as long I can pull from your repository_.
+Contrary to my earlier workflow, I don't need pull requests/patch sets for the "git-annex" branch any more _as long I can pull from your repository_.
 If I can't pull directly, I will still the patchset for the "git-annex" branch.
 
 Please use a fresh clone of this repository to import new talks; else you will leak information about your history via `git-annex`' location tracking feature.
