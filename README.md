@@ -48,5 +48,5 @@ For example:
     git commit -m "new talk"
 
 Contrary to my earlier workflow, I don't need pull requests/patch sets for the "git-annex" branch any more _as long I can pull from your repository_.
-If I can't pull directly, I will still the patchset for the "git-annex" branch.
+If I can't pull directly, I will steal the patchset for the "git-annex" branch.
 
