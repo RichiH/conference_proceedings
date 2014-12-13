@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/f9/29/URL-s424--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debconf6%slides%Lightning_Talks-Joey_Hess%lightning.sh/URL-s424--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debconf6%slides%Lightning_Talks-Joey_Hess%lightning.sh
