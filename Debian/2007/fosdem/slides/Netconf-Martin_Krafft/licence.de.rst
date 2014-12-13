@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/gj/Qf/URL-s548--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%licence.de.rst/URL-s548--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%licence.de.rst

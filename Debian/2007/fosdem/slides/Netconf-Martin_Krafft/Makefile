@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/JK/09/URL-s869--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%Makefile/URL-s869--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%Makefile

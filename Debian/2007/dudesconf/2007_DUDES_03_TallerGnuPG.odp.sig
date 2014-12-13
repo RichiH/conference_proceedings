@@ -1,0 +1,1 @@
+../../../.git/annex/objects/MX/J6/URL-s65--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%dudesconf%2007_DUDES_03_TallerGnuPG.odp.sig/URL-s65--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%dudesconf%2007_DUDES_03_TallerGnuPG.odp.sig

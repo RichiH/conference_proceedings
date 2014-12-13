@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/2g/fV/URL-s510--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%licence.en.rst/URL-s510--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%licence.en.rst

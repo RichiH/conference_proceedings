@@ -1,0 +1,1 @@
+../../../../../../../.git/annex/objects/WM/k0/URL-s15791--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%ui%base%slides.js/URL-s15791--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%ui%base%slides.js
