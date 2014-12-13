@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/XX/1K/URL-s358--http&c%%meetings-archive.debian.net%pub%debian-meetings%2009%fosdem%slides%The_long_road_to_KDE4_in_Debian%Makefile/URL-s358--http&c%%meetings-archive.debian.net%pub%debian-meetings%2009%fosdem%slides%The_long_road_to_KDE4_in_Debian%Makefile
