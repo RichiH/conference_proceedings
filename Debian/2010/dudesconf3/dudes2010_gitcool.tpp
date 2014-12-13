@@ -1,0 +1,1 @@
+../../../.git/annex/objects/25/pp/URL-s1609--http&c%%meetings-archive.debian.net%pub%debian-meetings%2010%dudesconf3%dudes2010_gitcool.tpp/URL-s1609--http&c%%meetings-archive.debian.net%pub%debian-meetings%2010%dudesconf3%dudes2010_gitcool.tpp
