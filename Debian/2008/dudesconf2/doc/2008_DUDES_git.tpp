@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/ZW/x2/URL-s9431--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%dudesconf2%doc%2008_DUDES_git.tpp/URL-s9431--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%dudesconf2%doc%2008_DUDES_git.tpp
