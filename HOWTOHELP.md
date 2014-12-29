@@ -12,7 +12,7 @@ Both of these will increase the quality of the repo for everyone.  `cd` into you
 
 this will search through the repository and will check each and every file and video checked into `git-annex` to make sure that every file with a url exists where it should and can assumably be downloaded.
 
-   git-annex find --not --in web | grep failed
+   git-annex find --not --in web
 
 this will search through all the files checked into `git-annex` and make sure that they have a url that they point to and will only print out the files that don't have any url target.
 
