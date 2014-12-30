@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/xw/63/URL-s155--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%common.inc/URL-s155--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%common.inc

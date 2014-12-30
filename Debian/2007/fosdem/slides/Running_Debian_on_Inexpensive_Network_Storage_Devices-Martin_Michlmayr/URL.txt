@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/VG/mP/URL-s46--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Running_Debian_on_Inexpensive_Network_Storage_Devices-3b3d13f236730898c9586315bf3bd6a5/URL-s46--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Running_Debian_on_Inexpensive_Network_Storage_Devices-3b3d13f236730898c9586315bf3bd6a5
