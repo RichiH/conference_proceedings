@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/X0/Jx/URL-s1057--http&c%%meetings-archive.debian.net%pub%debian-meetings%2010%dudesconf3%dudes2010_introDD%antxon_1.0.0-1.dsc/URL-s1057--http&c%%meetings-archive.debian.net%pub%debian-meetings%2010%dudesconf3%dudes2010_introDD%antxon_1.0.0-1.dsc

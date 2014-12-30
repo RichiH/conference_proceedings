@@ -1,1 +1,0 @@
-../../../.git/annex/objects/wk/Gx/URL-s307--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%rmll%README.txt/URL-s307--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%rmll%README.txt

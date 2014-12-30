@@ -1,1 +1,0 @@
-../../../../../../.git/annex/objects/00/9M/URL-s246--http&c%%meetings-archive.debian.net%pub%debian-meetings%2009%fosdem%slides%TDebs_draft_specification%debian%Makefile/URL-s246--http&c%%meetings-archive.debian.net%pub%debian-meetings%2009%fosdem%slides%TDebs_draft_specification%debian%Makefile

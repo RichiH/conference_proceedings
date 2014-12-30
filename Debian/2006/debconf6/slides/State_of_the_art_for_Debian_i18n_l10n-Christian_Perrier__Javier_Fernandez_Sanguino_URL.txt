@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/6m/g0/URL-s84--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debconf6%slides%State_of_the_art_for_Debian_i18n_l10n-Christian_Per-6b83c5fa9a8f07b2c9e2c24af3f1e380/URL-s84--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debconf6%slides%State_of_the_art_for_Debian_i18n_l10n-Christian_Per-6b83c5fa9a8f07b2c9e2c24af3f1e380

@@ -1,1 +1,0 @@
-../../../.git/annex/objects/1p/K9/URL-s1962--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%qa-meeting-badajoz%encodev.sh/URL-s1962--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%qa-meeting-badajoz%encodev.sh

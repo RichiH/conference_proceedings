@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/64/97/URL-s57--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Delta_Upgrades_without_rsync-Michael_Vogt,43Paul_Slad-353bbf3a7c4f895d76a6fd4fc706e991/URL-s57--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Delta_Upgrades_without_rsync-Michael_Vogt,43Paul_Slad-353bbf3a7c4f895d76a6fd4fc706e991

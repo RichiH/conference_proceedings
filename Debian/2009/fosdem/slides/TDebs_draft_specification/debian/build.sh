@@ -1,1 +1,0 @@
-../../../../../../.git/annex/objects/Kf/PX/URL-s600--http&c%%meetings-archive.debian.net%pub%debian-meetings%2009%fosdem%slides%TDebs_draft_specification%debian%build.sh/URL-s600--http&c%%meetings-archive.debian.net%pub%debian-meetings%2009%fosdem%slides%TDebs_draft_specification%debian%build.sh

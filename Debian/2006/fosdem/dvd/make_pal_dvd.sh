@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/pW/V9/URL-s512--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%fosdem%dvd%make_pal_dvd.sh/URL-s512--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%fosdem%dvd%make_pal_dvd.sh

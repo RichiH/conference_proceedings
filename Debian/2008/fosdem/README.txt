@@ -1,1 +1,0 @@
-../../../.git/annex/objects/px/QX/URL-s55--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%fosdem%README.txt/URL-s55--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%fosdem%README.txt

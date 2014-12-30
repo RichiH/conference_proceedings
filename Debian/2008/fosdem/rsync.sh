@@ -1,1 +1,0 @@
-../../../.git/annex/objects/9W/Fm/URL-s98--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%fosdem%rsync.sh/URL-s98--http&c%%meetings-archive.debian.net%pub%debian-meetings%2008%fosdem%rsync.sh

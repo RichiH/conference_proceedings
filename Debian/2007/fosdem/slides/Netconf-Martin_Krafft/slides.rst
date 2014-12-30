@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/Gm/Qf/URL-s9219--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%slides.rst/URL-s9219--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Netconf-Martin_Krafft%slides.rst

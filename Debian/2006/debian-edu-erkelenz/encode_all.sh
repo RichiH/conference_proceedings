@@ -1,1 +1,0 @@
-../../../.git/annex/objects/V9/M9/URL-s3499--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debian-edu-erkelenz%encode_all.sh/URL-s3499--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debian-edu-erkelenz%encode_all.sh

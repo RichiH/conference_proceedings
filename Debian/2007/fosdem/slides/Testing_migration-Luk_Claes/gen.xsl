@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/zW/Pk/URL-s5565--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Testing_migration-Luk_Claes%gen.xsl/URL-s5565--http&c%%meetings-archive.debian.net%pub%debian-meetings%2007%fosdem%slides%Testing_migration-Luk_Claes%gen.xsl

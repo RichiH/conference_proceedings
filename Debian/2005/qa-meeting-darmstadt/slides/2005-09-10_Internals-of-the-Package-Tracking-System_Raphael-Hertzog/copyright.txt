@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/p8/6f/URL-s47--http&c%%meetings-archive.debian.net%pub%debian-meetings%2005%qa-meeting-darmstadt%slides%2005-09-10_Internals-of-the-Package-Tra-8853d428f518a01b9003da46c88f0b90/URL-s47--http&c%%meetings-archive.debian.net%pub%debian-meetings%2005%qa-meeting-darmstadt%slides%2005-09-10_Internals-of-the-Package-Tra-8853d428f518a01b9003da46c88f0b90
