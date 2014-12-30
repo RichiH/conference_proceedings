@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/78/WV/URL-s512--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debian-edu-erkelenz%dvd%make_pal_dvd.sh/URL-s512--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debian-edu-erkelenz%dvd%make_pal_dvd.sh

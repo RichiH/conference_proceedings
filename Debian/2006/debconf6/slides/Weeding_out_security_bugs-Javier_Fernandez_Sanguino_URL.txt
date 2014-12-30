@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/Mg/6Q/URL-s49--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debconf6%slides%Weeding_out_security_bugs-Javier_Fernandez_Sanguino-a3d118f8792a4f7c2b9cc18e207d3a2a/URL-s49--http&c%%meetings-archive.debian.net%pub%debian-meetings%2006%debconf6%slides%Weeding_out_security_bugs-Javier_Fernandez_Sanguino-a3d118f8792a4f7c2b9cc18e207d3a2a
