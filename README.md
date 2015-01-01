@@ -31,7 +31,7 @@ Please use a fresh clone of this repository to import new talks; else you
 will leak information about your history via `git-annex`'s location
 tracking feature.
 
-Please use `git annex addurl --fast`, so that git-annex only stores the url
+Please use `git annex addurl --relaxed`, so that git-annex only stores the url
 and not its hash, so that if a talk video is changed, the new version
 will be accepted.
 
@@ -44,7 +44,7 @@ For example:
     git config annex.version 5
     git config annex.uuid 00000000-0000-0000-0000-000000000001
 
-    git annex addurl --fast ...
+    git annex addurl --relaxed ...
     git commit -m "new talk"
 
 Contrary to my earlier workflow, I don't need pull requests/patch sets for the "git-annex" branch any more _as long I can pull from your repository_.
