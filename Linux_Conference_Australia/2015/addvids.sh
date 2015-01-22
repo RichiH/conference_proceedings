@@ -1,4 +1,4 @@
-for topdir in OGGB_260098 OGGB_FP OGGB4 OGGB3 Case_Room_3 Case_Room_2; do
+for topdir in OGGB_260098 OGGB_FP OGGB4 OGGB3 Case_Room_3 Case_Room_2 NICAI_Workshop; do
 	for day in Monday Tuesday Wednesday Thursday Friday Saturday Sunday; do
 		mkdir -p $topdir/$day
 		(
