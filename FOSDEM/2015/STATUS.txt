@@ -1,0 +1,155 @@
+Videos are being processed at the moment. They are added here as they become ready.
+WebM versions will be made available in due course.
+All the straightforward-to-process videos have now been uploaded.
+The ones remaining require manual attention so will take a bit 
+longer and some might be incomplete.
+
+You can read the story of the production of the videos here:
+  http://mistserver.org/wiki/FOSDEM2015
+
+Total number of videos currently available: 345 / 402
+
+Number  Room
+------- ----
+      6 devroom-ada
+      8 devroom-configuration_management
+     12 devroom-desktops
+     16 devroom-distributions
+     13 devroom-electronic_design_automation
+     17 devroom-embedded
+     18 devroom-geospatial
+      9 devroom-go
+     12 devroom-graphics
+     11 devroom-infrastructure_as_a_service
+     14 devroom-internet_of_things
+      7 devroom-java
+      7 devroom-legal_and_policy_issues
+      1 devroom-lisp
+      9 devroom-llvm_toolchain
+      6 devroom-microkernels
+     12 devroom-mozilla
+      7 devroom-mysql_and_friends
+     14 devroom-network_management_and_sdn
+     17 devroom-open_document_editors
+     12 devroom-open_media
+      3 devroom-open_source_design
+      3 devroom-open_source_search
+      9 devroom-perl
+      8 devroom-php_and_friends
+     14 devroom-python
+      2 devroom-ruby
+      3 devroom-security_devroom
+      5 devroom-smalltalk
+     15 devroom-software_defined_radio
+      8 devroom-testing_and_automation
+     11 devroom-virtualisation
+      1 keynotes
+     21 lightning_talks
+      3 main_track-hardware
+      1 main_track-miscellaneous
+      3 main_track-performance
+      1 main_track-security
+      5 main_track-time
+      1 main_track-typesetting
+
+
+Total number of missing videos where recording did not succeed, sorry: 142
+
+Number  Room
+------- ----
+      5 devroom-ada
+      6 devroom-bsd
+      1 devroom-configuration_management
+      3 devroom-desktops
+      4 devroom-distributions
+      3 devroom-electronic_design_automation
+      3 devroom-geospatial
+     11 devroom-graph_processing
+      1 devroom-infrastructure_as_a_service
+     18 devroom-java
+      6 devroom-legal_and_policy_issues
+      3 devroom-lisp
+      4 devroom-microkernels
+     11 devroom-mysql_and_friends
+      2 devroom-network_management_and_sdn
+      4 devroom-open_document_editors
+      3 devroom-open_media
+      7 devroom-open_source_design
+      7 devroom-open_source_search
+      2 devroom-perl
+      6 devroom-postgresql
+      2 devroom-python
+      2 devroom-security_devroom
+      1 devroom-smalltalk
+      1 devroom-software_defined_radio
+      7 devroom-valgrind
+      1 keynotes
+     18 lightning_talks
+
+Size    Room
+----    ----
+1.4G	devroom-ada
+28K	devroom-bsd
+1.1G	devroom-configuration_management
+4.7G	devroom-desktops
+2.6G	devroom-distributions
+1.2G	devroom-electronic_design_automation
+2.3G	devroom-embedded
+1.1G	devroom-geospatial
+1.5G	devroom-go
+48K	devroom-graph_processing
+1.5G	devroom-graphics
+1.9G	devroom-infrastructure_as_a_service
+1.9G	devroom-internet_of_things
+699M	devroom-java
+3.1G	devroom-legal_and_policy_issues
+426M	devroom-lisp
+1.5G	devroom-llvm_toolchain
+768M	devroom-microkernels
+1.7G	devroom-mozilla
+609M	devroom-mysql_and_friends
+2.2G	devroom-network_management_and_sdn
+996M	devroom-open_document_editors
+1.4G	devroom-open_media
+315M	devroom-open_source_design
+529M	devroom-open_source_search
+1.2G	devroom-perl
+1.5G	devroom-php_and_friends
+28K	devroom-postgresql
+1.5G	devroom-python
+313M	devroom-ruby
+613M	devroom-security_devroom
+741M	devroom-smalltalk
+1.4G	devroom-software_defined_radio
+2.5G	devroom-testing_and_automation
+32K	devroom-valgrind
+1.6G	devroom-virtualisation
+222M	keynotes
+986M	lightning_talks
+1.3G	main_track-hardware
+4.0K	main_track-languages
+1.6G	main_track-miscellaneous
+636M	main_track-performance
+183M	main_track-security
+965M	main_track-time
+614M	main_track-typesetting
+52G	total
+
+Size    Year
+----    ----
+4.6G	2005
+19G	2006
+5.7G	2007
+20G	2008
+30G	2009
+41G	2010
+13G	2011
+7.6G	2012
+40G	2013
+108G	2014
+52G	2015
+337G	total
+
+
+Generated at Mon Apr 13 07:36:01 CEST 2015
+
