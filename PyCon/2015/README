@@ -1,0 +1,30 @@
+To reconstruct the tree, just run ./build
+
+If you see any:
+
+    warning: problem downloading item
+
+... just run ./build again until you don't see any such warnings any more,
+then your tree is complete.
+
+If you do *not* see a:
+
+    warning: bad feed content
+
+... at the end, you have not exhausted the playlist. Increase the upper bound
+on the loop expression.
+
+
+The playlist ID for the channel was found using the Google API explorer.
+
+The PyCon 2015 channel is UCgxzjK6GuOHVKR_08TT4hJQ, so you go get the channel metadata (push "Execute"):
+
+https://developers.google.com/apis-explorer/#p/youtube/v3/youtube.channels.list?part=contentDetails&id=UCgxzjK6GuOHVKR_08TT4hJQ
+
+[ . . . ]
+    "relatedPlaylists": {
+     "uploads": "UUgxzjK6GuOHVKR_08TT4hJQ"
+    },
+[ . . . ]
+
+.. and that's the playlist that goes into the URL in ./build.
