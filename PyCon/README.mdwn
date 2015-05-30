@@ -1,0 +1,5 @@
+PyCon videos are available from: <http://pyvideo.org/>
+
+To import a new conference here, use something like this:
+
+    git annex importfeed --template='PyCon/2015_US/${itemtitle}${extension}' --relaxed http://pyvideo.org/category/65/pycon-us-2015/rss
