@@ -7,7 +7,7 @@ longer and some might be incomplete.
 You can read the story of the production of the videos here:
   http://mistserver.org/wiki/FOSDEM2015
 
-Total number of videos currently available: 345 / 402
+Total number of videos currently available: 346 / 402
 
 Number  Room
 ------- ----
@@ -38,7 +38,7 @@ Number  Room
       8 devroom-php_and_friends
      14 devroom-python
       2 devroom-ruby
-      3 devroom-security_devroom
+      4 devroom-security_devroom
       5 devroom-smalltalk
      15 devroom-software_defined_radio
       8 devroom-testing_and_automation
@@ -53,7 +53,7 @@ Number  Room
       1 main_track-typesetting
 
 
-Total number of missing videos where recording did not succeed, sorry: 142
+Total number of missing videos where recording did not succeed, sorry: 139
 
 Number  Room
 ------- ----
@@ -67,7 +67,7 @@ Number  Room
      11 devroom-graph_processing
       1 devroom-infrastructure_as_a_service
      18 devroom-java
-      6 devroom-legal_and_policy_issues
+      5 devroom-legal_and_policy_issues
       3 devroom-lisp
       4 devroom-microkernels
      11 devroom-mysql_and_friends
@@ -79,7 +79,6 @@ Number  Room
       2 devroom-perl
       6 devroom-postgresql
       2 devroom-python
-      2 devroom-security_devroom
       1 devroom-smalltalk
       1 devroom-software_defined_radio
       7 devroom-valgrind
@@ -102,11 +101,11 @@ Size    Room
 1.9G	devroom-infrastructure_as_a_service
 1.9G	devroom-internet_of_things
 699M	devroom-java
-3.1G	devroom-legal_and_policy_issues
+3.4G	devroom-legal_and_policy_issues
 426M	devroom-lisp
 1.5G	devroom-llvm_toolchain
 768M	devroom-microkernels
-1.7G	devroom-mozilla
+1.9G	devroom-mozilla
 609M	devroom-mysql_and_friends
 2.2G	devroom-network_management_and_sdn
 996M	devroom-open_document_editors
@@ -118,7 +117,7 @@ Size    Room
 28K	devroom-postgresql
 1.5G	devroom-python
 313M	devroom-ruby
-613M	devroom-security_devroom
+1.3G	devroom-security_devroom
 741M	devroom-smalltalk
 1.4G	devroom-software_defined_radio
 2.5G	devroom-testing_and_automation
@@ -133,7 +132,7 @@ Size    Room
 183M	main_track-security
 965M	main_track-time
 614M	main_track-typesetting
-52G	total
+54G	total
 
 Size    Year
 ----    ----
@@ -147,9 +146,9 @@ Size    Year
 7.6G	2012
 40G	2013
 108G	2014
-52G	2015
-337G	total
+54G	2015
+338G	total
 
 
-Generated at Thu Apr 23 07:06:01 CEST 2015
+Generated at Sun Jul  5 11:36:01 CEST 2015
 
