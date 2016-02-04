@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {1..141..20}; do 
+  git annex importfeed --fast --template '${itemtitle}_${extension}' "http://gdata.youtube.com/feeds/api/playlists/UUgxzjK6GuOHVKR_08TT4hJQ?start-index=$i&max-results=20" 2>&1 |
+    grep -E 'importfeed|addurl|warning:'
+done

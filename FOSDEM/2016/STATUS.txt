@@ -1,0 +1,36 @@
+Videos are being assessed and processed at the moment.
+They are added here as they become ready.
+
+Total number of videos currently available:       87 
+
+Number  Room
+------- ----
+   4 aw1120
+   3 aw1121
+  10 aw1125
+  11 aw1126
+   6 h1301
+  14 h1308
+  11 h1309
+  11 janson
+  17 k3201
+
+Size    Year
+----    ----
+4.5G	2005
+ 18G	2006
+5.6G	2007
+ 19G	2008
+ 29G	2009
+ 41G	2010
+ 12G	2011
+7.5G	2012
+ 39G	2013
+107G	2014
+ 53G	2015
+ 15G	2016
+352G	total
+
+
+Generated at Thu Feb  4 22:22:50 CET 2016
+
