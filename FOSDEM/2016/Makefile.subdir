@@ -1,0 +1,17 @@
+default: all
+
+SUBDIR = $(notdir $(shell pwd))
+BASEURL = https://video.fosdem.org/2016
+
+all: mp4s
+
+index.html:
+	wget -O $@.new $(BASEURL)/$(SUBDIR)
+	mv $@.new $@
+
+mp4s: index.html
+	for i in `grep 'href=".[^"]*"' $< | cut -f 2 -d '"' | grep mp4`; do \
+	  [ -h $$i ] || git annex addurl --fast $(BASEURL)/$(SUBDIR)/$$i --file $$i; \
+	done
+
+.PHONY: default all mp4s index.html
