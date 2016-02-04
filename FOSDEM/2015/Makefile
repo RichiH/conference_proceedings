@@ -1,11 +1,13 @@
 default: all
 
-all: makedirs dirs
+all: makedirs dirs README.txt STATUS.txt
 
 makedirs: index.html
-	for i in `grep 'href=".[^"]*/"' $< | cut -f 6 -d '"'`; do \
+	for i in `grep 'href=".[^"]*/"' $< | cut -f 2 -d '"'`; do \
 	  [ -e $$i ] || mkdir $$i; \
-	  [ -h $$i/Makefile ] || ln -s ../Makefile.subdir $$i/Makefile; \
+	  [ -h $$i/Makefile ] || \
+	  [ $$i == ../ ] || \
+	    ln -s ../Makefile.subdir $$i/Makefile; \
 	done
 
 PHONY = 
@@ -24,8 +26,18 @@ $(foreach dir,$(DIRS),$(eval $(call DIR_template, $(dir))))
 
 dirs: $(DIRS)
 
+BASE = https://video.fosdem.org/2015/
+
 index.html:
-	wget -O $@.new https://video.fosdem.org/2015/
+	wget -O $@.new $(BASE)
 	mv $@.new $@
 
-.PHONY: default all index.html dirs $(PHONY)
+README.txt:
+	wget -O $@.new $(BASE)$@
+	mv $@.new $@
+
+STATUS.txt:
+	wget -O $@.new $(BASE)$@
+	mv $@.new $@
+
+.PHONY: default all index.html README.txt STATUS.txt dirs $(PHONY)
