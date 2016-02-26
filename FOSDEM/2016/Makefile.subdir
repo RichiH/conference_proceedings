@@ -16,7 +16,7 @@ STATUS.TXT:
 mp4s: index.html
 	for i in `grep 'href=".[^"]*"' $< | cut -f 2 -d '"' | grep mp4`; do \
 	  [[ -h $$i ]] || for mirror in $(BASEURL) $(MIRRORS); do \
-            git annex addurl --fast $${mirror}/$(SUBDIR)/$$i --file $$i; \
+            git annex addurl --relaxed $${mirror}/$(SUBDIR)/$$i --file $$i; \
           done \
 	done
 
