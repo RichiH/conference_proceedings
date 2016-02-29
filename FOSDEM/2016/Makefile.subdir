@@ -2,16 +2,22 @@ default: all
 
 SUBDIR = $(notdir $(shell pwd))
 BASEURL = https://video.fosdem.org/2016
+MIRRORS = http://bofh.nikhef.nl/events/FOSDEM/2016 http://ftp.fau.de/fosdem/2016 http://ftp.heanet.ie/mirrors/fosdem-video/2016 http://ftp.osuosl.org/pub/fosdem/2016 http://mirror.as35701.net/video.fosdem.org/2016 http://mirror.onet.pl/pub/mirrors/video.fosdem.org/2016 http://mirrors.dotsrc.org/fosdem/2016 https://fosdem.cu.be/2016
 
-all: mp4s
+all: mp4s STATUS.TXT
 
 index.html:
 	wget -O $@.new $(BASEURL)/$(SUBDIR)
 	mv $@.new $@
 
+STATUS.TXT:
+	-{ wget -O $@.new $(BASEURL)/$(SUBDIR)/$@ && mv $@.new $@; } || { rm $@.new; rm $@; }
+
 mp4s: index.html
 	for i in `grep 'href=".[^"]*"' $< | cut -f 2 -d '"' | grep mp4`; do \
-	  [ -h $$i ] || git annex addurl --fast $(BASEURL)/$(SUBDIR)/$$i --file $$i; \
+	  [[ -h $$i ]] || for mirror in $(BASEURL) $(MIRRORS); do \
+            git annex addurl --relaxed $${mirror}/$(SUBDIR)/$$i --file $$i; \
+          done \
 	done
 
-.PHONY: default all mp4s index.html
+.PHONY: default all mp4s index.html STATUS.TXT

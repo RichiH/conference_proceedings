@@ -1,22 +1,41 @@
 Videos are being assessed and processed at the moment.
 They are added here as they become ready.
 
-Total number of videos currently available:      111 
+Total number of videos currently available:      287 / 515
+Number of videos that will be unavailable:        94
+Number of videos that are incomplete:             33
+Number of videos still to be reviewed:           157
 
-Number  Room
-------- ----
-   4 aw1120
-   3 aw1121
-  10 aw1125
-  27 aw1126
-   6 h1301
-  14 h1308
-  11 h1309
-  19 janson
-  17 k3201
+Room    	Avail	Lost	Partial	Unknown	#Talks
+------------------------------------------------------
+aw1120   	 4 	 3 	 0 	 8 	 31
+aw1121   	 14 	 4 	 1 	 0 	 29
+aw1124   	 8 	 9 	 3 	 1 	 24
+aw1125   	 25 	 2 	 3 	 2 	 30
+aw1126   	 27 	 1 	 0 	 1 	 29
+h1301   	 6 	 6 	 0 	 10 	 23
+h1302   	 12 	 3 	 0 	 9 	 24
+h1308   	 14 	 3 	 0 	 7 	 24
+h1309   	 11 	 3 	 1 	 7 	 21
+h2213   	 7 	 3 	 1 	 0 	 19
+h2214   	 21 	 1 	 4 	 2 	 31
+h2215   	 26 	 11 	 2 	 0 	 38
+janson   	 19 	 0 	 0 	 0 	 19
+k1105   	 13 	 1 	 1 	 0 	 14
+k3201   	 17 	 5 	 0 	 12 	 34
+k3401   	 5 	 12 	 1 	 1 	 25
+k4201   	 9 	 4 	 0 	 11 	 24
+k4401   	 18 	 6 	 3 	 13 	 37
+k4601   	 7 	 2 	 1 	 8 	 18
+ua2114   	 12 	 3 	 0 	 14 	 29
+ua2220   	 4 	 3 	 1 	 8 	 16
+ub2252a   	 0 	 0 	 0 	 21 	 21
+ud2120   	 8 	 3 	 1 	 10 	 21
+ud2218a   	 0 	 6 	 10 	 12 	 28
 
 Size    Year
 ----    ----
+2.1G	2003_work_in_progress
 4.5G	2005
  18G	2006
 5.6G	2007
@@ -28,9 +47,9 @@ Size    Year
  39G	2013
 107G	2014
  53G	2015
- 16G	2016
-353G	total
+ 47G	2016
+386G	total
 
 
-Generated at Fri Feb  5 07:39:34 CET 2016
+Generated at Mon Feb 29 10:23:20 CET 2016
 
