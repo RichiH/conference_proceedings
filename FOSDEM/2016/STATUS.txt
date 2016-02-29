@@ -1,16 +1,16 @@
 Videos are being assessed and processed at the moment.
 They are added here as they become ready.
 
-Total number of videos currently available:      287 / 518
-Number of videos that will be unavailable:        91
-Number of videos that are incomplete:             32
-Number of videos still to be reviewed:           181
+Total number of videos currently available:      287 / 515
+Number of videos that will be unavailable:        94
+Number of videos that are incomplete:             33
+Number of videos still to be reviewed:           157
 
 Room    	Avail	Lost	Partial	Unknown	#Talks
 ------------------------------------------------------
-aw1120   	 4 	 3 	 0 	 23 	 31
+aw1120   	 4 	 3 	 0 	 8 	 31
 aw1121   	 14 	 4 	 1 	 0 	 29
-aw1124   	 8 	 6 	 2 	 10 	 24
+aw1124   	 8 	 9 	 3 	 1 	 24
 aw1125   	 25 	 2 	 3 	 2 	 30
 aw1126   	 27 	 1 	 0 	 1 	 29
 h1301   	 6 	 6 	 0 	 10 	 23
@@ -51,5 +51,5 @@ Size    Year
 386G	total
 
 
-Generated at Fri Feb 26 14:25:54 CET 2016
+Generated at Mon Feb 29 10:23:20 CET 2016
 
