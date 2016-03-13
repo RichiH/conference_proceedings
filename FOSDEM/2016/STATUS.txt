@@ -1,7 +1,7 @@
 Videos are being assessed and processed at the moment.
 They are added here as they become ready.
 
-Total number of videos currently available:      400 / 494
+Total number of videos currently available:      403 / 494
 Number of videos that will be unavailable:       116
 Number of videos that are incomplete:             47
 Number of videos still to be reviewed:            36
@@ -18,7 +18,7 @@ h1302   	 12 	 3 	 0 	 9 	 25
 h1308   	 21 	 3 	 0 	 0 	 24
 h1309   	 17 	 3 	 1 	 1 	 21
 h2213   	 7 	 3 	 1 	 0 	 19
-h2214   	 28 	 1 	 4 	 0 	 31
+h2214   	 31 	 1 	 4 	 0 	 31
 h2215   	 26 	 11 	 2 	 0 	 38
 janson   	 19 	 0 	 0 	 0 	 19
 k1105   	 13 	 1 	 1 	 0 	 14
@@ -47,9 +47,9 @@ Size    Year
  39G	2013
 107G	2014
  53G	2015
- 55G	2016
-395G	total
+ 47G	2016
+386G	total
 
 
-Generated at Sun Mar  6 18:19:47 CET 2016
+Generated at Sun Mar 13 14:09:16 CET 2016
 
