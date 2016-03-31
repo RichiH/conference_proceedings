@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 THIS_DIR=${BASH_SOURCE[0]%/*}
-BASEURL=http://media.libreplanet.org/u/libreplanet/tag/lp2016
+BASEURL=http://media.libreplanet.org/u/libreplanet/tag/libreplanet-2016
 
 cd "$THIS_DIR"
 
