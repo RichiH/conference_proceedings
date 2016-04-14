@@ -1,0 +1,43 @@
+default: all
+
+SUBDIR = $(notdir $(shell pwd))
+
+Makefile.timestamp: makedirs
+
+Makefile:: Makefile.timestamp
+	touch $@
+
+all: makedirs dirs
+
+makedirs: index.html
+	for i in `grep 'td><a href=".[^"]*/"' $< | cut -f 2 -d '"'`; do \
+	  [ -e $$i ] || mkdir $$i; \
+	  [ -h $$i/Makefile ] || \
+            [ $$i == ../ ] || \
+            ln -s ../../Makefile.subsubdir $$i/Makefile && \
+	    touch Makefile.timestamp; \
+	done
+
+PHONY = 
+
+define DIR_template
+$(1):
+	make -C $(1)
+
+PHONY += $(1)
+endef
+
+DIRS = $(patsubst %/Makefile,%,$(wildcard */Makefile))
+$(info $(DIRS))
+
+$(foreach dir,$(DIRS),$(eval $(call DIR_template, $(dir))))
+
+dirs: $(DIRS)
+
+BASE = https://video.fosdem.org/2014/$(SUBDIR)/
+
+index.html:
+	wget -O $@.new $(BASE)
+	mv $@.new $@
+
+.PHONY: default all index.html dirs $(PHONY)
