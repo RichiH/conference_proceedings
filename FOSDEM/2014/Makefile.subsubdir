@@ -14,7 +14,7 @@ index.html:
 	mv $@.new $@
 
 webms: index.html
-	for i in `grep 'href=".[^"]*"' $< | cut -f 2 -d '"' | grep webm`; do \
+	for i in `perl -pe 's/<td>/\n<td>/g' $< | grep 'td><a href="[^"][^"][^"][^"]*webm"' | cut -f 2 -d '"'`; do \
 	  [[ -h $$i ]] || for mirror in $(BASEURL) $(MIRRORS); do \
             git annex addurl --relaxed $${mirror}/$(SUBSUBDIR)/$$i --file $$i; \
           done \
