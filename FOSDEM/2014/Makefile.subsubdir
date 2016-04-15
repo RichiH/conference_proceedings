@@ -1,0 +1,23 @@
+default: all
+
+PWD=$(shell pwd)
+SUBDIR = $(notdir $(realpath $(PWD)/..))
+SUBSUBDIR = $(SUBDIR)/$(notdir $(PWD))
+
+BASEURL = https://video.fosdem.org/2014
+MIRRORS = http://bofh.nikhef.nl/events/FOSDEM/2014 http://ftp.fau.de/fosdem/2014 http://ftp.heanet.ie/mirrors/fosdem-video/2014 http://ftp.osuosl.org/pub/fosdem/2014 http://mirror.as35701.net/video.fosdem.org/2014 http://mirror.onet.pl/pub/mirrors/video.fosdem.org/2014 http://mirrors.dotsrc.org/fosdem/2014 https://fosdem.cu.be/2014
+
+all: webms
+
+index.html:
+	wget -O $@.new $(BASEURL)/$(SUBSUBDIR)
+	mv $@.new $@
+
+webms: index.html
+	for i in `perl -pe 's/<td>/\n<td>/g' $< | grep 'td><a href="[^"][^"][^"][^"]*webm"' | cut -f 2 -d '"'`; do \
+	  [[ -h $$i ]] || for mirror in $(BASEURL) $(MIRRORS); do \
+            git annex addurl --relaxed $${mirror}/$(SUBSUBDIR)/$$i --file $$i; \
+          done \
+	done
+
+.PHONY: default all webms index.html
