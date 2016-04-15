@@ -4,31 +4,30 @@ SUBDIR = $(notdir $(shell pwd))
 
 Makefile.timestamp: makedirs
 
-Makefile:: Makefile.timestamp
+Makefile.generated:: Makefile.timestamp
 	touch $@
 
 all: makedirs dirs
 
 makedirs: index.html
-	for i in `grep 'td><a href=".[^"]*/"' $< | cut -f 2 -d '"'`; do \
-	  [ -e $$i ] || mkdir $$i; \
-	  [ -h $$i/Makefile ] || \
-            [ $$i == ../ ] || \
-            ln -s ../../Makefile.subsubdir $$i/Makefile && \
+	for i in `perl -pe 's/<td>/\n<td>/g' $< | grep 'td><a href="[^"][^"][^"][^"]*/"' | cut -f 2 -d '"'`; do \
+	  [ -h $${i}Makefile.generated ] || { \
+	    mkdir -p $$i && \
+            ln -s ../../Makefile.subsubdir $${i}Makefile.generated && \
 	    touch Makefile.timestamp; \
+          } \
 	done
 
 PHONY = 
 
 define DIR_template
 $(1):
-	make -C $(1)
+	make -f Makefile.generated -C $(1)
 
 PHONY += $(1)
 endef
 
-DIRS = $(patsubst %/Makefile,%,$(wildcard */Makefile))
-$(info $(DIRS))
+DIRS = $(patsubst %/Makefile.generated,%,$(wildcard */Makefile.generated))
 
 $(foreach dir,$(DIRS),$(eval $(call DIR_template, $(dir))))
 
