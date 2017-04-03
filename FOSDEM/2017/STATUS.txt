@@ -1,0 +1,59 @@
+Videos are being assessed and processed at the moment.
+They are added here as they become ready.
+https://review.video.fosdem.org/overview shows the current processing status.
+(Please note there is a delay before the "done" videos appear here.)
+
+For the full list of talks with direct links to the corresponding videos, use:
+https://fosdem.org/2017/schedule/events/
+
+Total number of videos currently available:      618
+
+Room    	Available
+-------------------------
+AW1.120   	 29
+AW1.121   	 28
+AW1.125   	 27
+AW1.126   	 30
+H.1301   	 21
+H.1302   	 24
+H.1308   	 25
+H.1309   	 24
+H.2213   	 32
+H.2214   	 28
+H.2215   	 39
+H.3228   	 1
+Janson   	 19
+K.1.105   	 14
+K.3.201   	 21
+K.3.401   	 37
+K.4.201   	 23
+K.4.401   	 34
+K.4.601   	 25
+UA2.114   	 25
+UA2.220   	 18
+UB2.252A   	 23
+UD2.119   	 18
+UD2.120   	 27
+UD2.218A   	 26
+stands   	 0
+
+Size    Year
+----    ----
+4.5G	2005
+ 18G	2006
+5.6G	2007
+ 19G	2008
+ 29G	2009
+ 41G	2010
+ 12G	2011
+7.5G	2012
+ 39G	2013
+107G	2014
+ 53G	2015
+ 53G	2016
+160G	2017
+552G	total
+
+
+Generated at Sat Apr  1 20:25:07 CEST 2017
+
