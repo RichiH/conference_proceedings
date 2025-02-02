@@ -1,0 +1,21 @@
+default: all
+
+SUBDIR = $(notdir $(shell pwd))
+BASEURL = https://video.fosdem.org/2025
+MIRRORS = 
+MEDIA_PATTERN = webm|mp4
+
+all: media
+
+index.html:
+	wget -O $@.new $(BASEURL)/$(SUBDIR)
+	mv $@.new $@
+
+media: index.html
+	for i in `grep 'href=".[^"]*"' $< | cut -f 4 -d '"' | grep -E "$(MEDIA_PATTERN)"`; do \
+	  [ -h $$i ] || for mirror in $(BASEURL) $(MIRRORS); do \
+            git annex addurl --relaxed $${mirror}/$(SUBDIR)/$$i --file $$i; \
+          done \
+	done
+
+.PHONY: default all mp4s index.html STATUS.TXT
